@@ -6,7 +6,7 @@ export const ABOUT_BASE =
   'https://shrug-person-78902957.figma.site/_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/';
 
 export const GIFS: string[] = [
-  '/1.png',
+  '/8.png',
   '/2.png',
   '/3.png',
   '/4.png',
