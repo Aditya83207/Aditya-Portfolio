@@ -6,28 +6,19 @@ export const ABOUT_BASE =
   'https://shrug-person-78902957.figma.site/_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/';
 
 export const GIFS: string[] = [
-  'hero-space-voyage-preview-eECLH3Yc',
-  'hero-codenest-preview-Cgppc2qV',
-  'hero-vex-ventures-preview-BczMFIiw',
-  'hero-stellar-ai-v2-preview-DjvxjG3C',
-  'hero-asme-preview-B_nGDnTP',
-  'hero-transform-data-preview-Cx5OU29N',
-  'hero-vitara-preview-Cjz2QYyU',
-  'hero-terra-preview-BFjrCr7T',
-  'hero-skyelite-preview-DHaZIgUv',
-  'hero-aethera-preview-DknSlcTa',
-  'hero-designpro-preview-D8c5_een',
-  'hero-stellar-ai-preview-D3HL6bw1',
-  'hero-xportfolio-preview-D4A8maiC',
-  'hero-orbit-web3-preview-BXt4OttD',
-  'hero-nexora-preview-cx5HmUgo',
-  'hero-evr-ventures-preview-DZxeVFEX',
-  'hero-planet-orbit-preview-DWAP8Z1P',
-  'hero-new-era-preview-CocuDUm9',
-  'hero-wealth-preview-B70idl_u',
-  'hero-luminex-preview-CxOP7ce6',
-  'hero-celestia-preview-0yO3jXO8',
-].map((n) => `https://motionsites.ai/assets/${n}.gif`);
+  '/marquee/1.png',
+  '/marquee/2.png',
+  '/marquee/3.png',
+  '/marquee/4.png',
+  '/marquee/5.png',
+  '/marquee/6.png',
+  '/marquee/7.png',
+  '/marquee/8.png',
+  '/marquee/9.png',
+  '/marquee/10.png',
+  '/marquee/11.png',
+  '/marquee/12.png',
+];
 
 const cf = (id: string) =>
   `https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_${id}.png&w=1280&q=85`;
