@@ -1,4 +1,4 @@
-# Jack — 3D Creator (portfolio)
+# Aditya -- Fullstack Dev (portfolio)
 
 React + TypeScript + Tailwind CSS + Framer Motion + Lucide React, built with Vite.
 
