@@ -1,8 +1,9 @@
 import { useEffect, useRef, useState } from 'react';
 import { GIFS } from '../data';
 
-const row1 = GIFS.slice(0, 11);
-const row2 = GIFS.slice(11);
+const half = Math.ceil(GIFS.length / 2);
+const row1 = GIFS.slice(0, half);
+const row2 = GIFS.slice(half);
 
 // Fluid tile width: ~60% of screen on phones, max 420px on desktop
 const TILE = 'clamp(240px, 60vw, 420px)';
