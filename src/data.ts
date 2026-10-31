@@ -6,18 +6,14 @@ export const ABOUT_BASE =
   'https://shrug-person-78902957.figma.site/_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/';
 
 export const GIFS: string[] = [
-  '/marquee/1.png',
-  '/marquee/2.png',
-  '/marquee/3.png',
-  '/marquee/4.png',
-  '/marquee/5.png',
-  '/marquee/6.png',
-  '/marquee/7.png',
-  '/marquee/8.png',
-  '/marquee/9.png',
-  '/marquee/10.png',
-  '/marquee/11.png',
-  '/marquee/12.png',
+  '/1.png',
+  '/2.png',
+  '/3.png',
+  '/4.png',
+  '/5.png',
+  '/6.png',
+ '/7.png',
+ '/8.png',
 ];
 
 const cf = (id: string) =>
